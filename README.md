@@ -3,7 +3,6 @@
 [![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
 [![Web Speech API](https://img.shields.io/badge/Web_Speech_API-Supported-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Özellikle yaşlı veya teknolojiyle arası iyi olmayan kullanıcılar ve onların aileleri için tasarlanmış kapsamlı, erişilebilir bir "Çoklu Kullanıcı Destekli (Multi-Tenant) Sağlık Yönetimi" uygulamasıdır.
 React ve Tailwind CSS ile geliştirilmiştir.
