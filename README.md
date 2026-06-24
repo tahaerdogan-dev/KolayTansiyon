@@ -33,16 +33,15 @@ React ve Tailwind CSS ile geliştirilmiştir.
 
 ## 📁 Proje Klasör Yapısı
 
-```text
-KolayTansiyon/
-├── public/                      
-│   └── index.html               # Uygulamanın ana DOM şablonu
-├── src/                         
-│   ├── App.js                   # Tüm iş mantığını ve arayüzü barındıran Ana Bileşen
-│   └── index.js                 # React DOM entegrasyonu
-├── package.json                 # Proje bağımlılıkları ve npm scriptleri
-└── README.md              # Proje dokümantasyonu (Bu dosya)
-```
+    KolayTansiyon/
+    ├── public/                      
+    │   └── index.html               # Uygulamanın ana DOM ve Tasarım şablonu
+    ├── src/                         
+    │   ├── App.js                   # Tüm iş mantığını ve arayüzü barındıran Ana Bileşen
+    │   └── index.js                 # React DOM entegrasyonu
+    ├── package.json                 # Proje bağımlılıkları ve npm scriptleri
+    ├── LICENSE                      # MIT Açık Kaynak Lisans Belgesi
+    └── README.md                    # Proje dokümantasyonu (Bu dosya)
 
 ---
 
