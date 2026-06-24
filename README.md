@@ -10,7 +10,7 @@ React ve Tailwind CSS ile geliştirilmiştir.
 ## 👨‍💻 Geliştirici Bilgileri
 * **Adı Soyadı:** Taha Erdoğan
 * **Öğrenci Numarası:** 24010501016
-* **GitHub Repository:** https://github.com/tahaerdogan-dev
+* **GitHub Repository:** https://github.com/tahaerdogan-dev/KolayTansiyon
 
 ---
 
