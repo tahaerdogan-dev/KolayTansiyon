@@ -82,9 +82,10 @@ Kurulum bittikten sonra aynı siyah komut ekranına (Terminal) aşağıdaki komu
 
 **⚠️ ÖNEMLİ BAŞLATMA NOTLARI:**
 * Komutu girdikten sonra terminal ekranında *"We're unable to detect target browsers. Would you like to add the defaults to your package.json? (Y/n)"* şeklinde sarı bir soru çıkabilir. Bu durumda klavyeden **y** tuşuna basıp Enter'a basın.
-* *(Açıklama: Bu soru, React'in yazdığımız modern kodları tüm tarayıcılarda (Chrome, Safari, Edge vb.) kusursuz ve uyumlu çalıştırabilmesi için gereken varsayılan altyapı ayarlarını (browserslist) projeye eklemek istemesinden kaynaklanır. Onayladığınızda sistem eksik ayarları otomatik tamamlar).*
+  *(Açıklama: Bu soru, React'in yazdığımız modern kodları tüm tarayıcılarda (Chrome, Safari, Edge vb.) kusursuz ve uyumlu çalıştırabilmesi için gereken varsayılan altyapı ayarlarını (browserslist) projeye eklemek istemesinden kaynaklanır. Onayladığınızda sistem eksik ayarları otomatik tamamlar).*
 * Sistem projeyi derleyecektir (ilk açılışta 1 dakika kadar sürebilir). 
 * İşlem bittiğinde uygulama varsayılan tarayıcınızda otomatik olarak açılacaktır. Eğer tarayıcınız otomatik olarak açılmazsa, kendiniz Chrome veya Edge tarayıcısını açıp adres çubuğuna **http://localhost:3000** yazarak projeye ulaşabilirsiniz.
+* *Not: Tasarımda Tailwind CSS'in CDN versiyonu kullanıldığı için cihazınızda internet bağlantısı olması gerekmektedir.*
 
 ### Temel Senaryo
 1. Karşılama ekranında hastanın adını girerek sisteme kaydedin.
